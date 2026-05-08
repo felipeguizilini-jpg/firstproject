@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    background: #f4f4f9;
+    display: flex;
+    justify-content: center;
+    background: url(https://wallpapers-clan.com/wp-content/uploads/2025/07/purple-dreamy-clouds-sky-aesthetic-desktop-wallpaper-preview.jpg);
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.cartao {
+    background: rgb(212, 192, 233);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    max-width: 350px;
+}
+
+.foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #41058a;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: #2c3e50;
+    margin: 10px 0;
+    font-size: 1.5em;
+}
+
+p {
+    color: #555;
+    font-size: 0.95em;
+    line-height: 1.5;
+}
+
+.tag {
+    background: #3498db;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    font-weight: bold;
+}
